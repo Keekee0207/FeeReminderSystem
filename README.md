@@ -55,7 +55,8 @@ Click Reset for new entries.
 
 Sample Output
 Receipt Example
------------- Fee Receipt ------------
+
+Fee Receipt:
 Student Name: John Doe
 Father's Name: Mark Doe
 Roll Number: 101
@@ -66,10 +67,10 @@ Base Fee: ₹60000
 Hostel Fee: ₹10000
 Bus Fee: ₹5000
 Total Fee to be Paid: ₹75000
-------------------------------------
 
 Notification:
 "Fee Reminder: ₹75000 due for John Doe"
+
 
 
 
